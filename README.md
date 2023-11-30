@@ -4,6 +4,7 @@
 | :----: | :----: | :----: | :----: | :----: |
 | [AIdea](https://github.com/mylxsw/aidea) | Flutter/Dart | ![](https://img.shields.io/github/stars/mylxsw/aidea?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/mylxsw/aidea?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP |
 | [AIdea-Server](https://github.com/mylxsw/aidea-server) | Go | ![](https://img.shields.io/github/stars/mylxsw/aidea-server?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/mylxsw/aidea-server?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP，这是服务端。 |
+| [AIdea-Docker](https://github.com/mylxsw/aidea-docker) | docker | ![](https://img.shields.io/github/stars/mylxsw/aidea-docker?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/mylxsw/aidea-docker?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | AIdea 的一键部署安装包，采用 docker-compose 实现。 |
 
 ## Tutorials
 
