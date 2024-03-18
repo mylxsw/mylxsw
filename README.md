@@ -26,7 +26,7 @@
 | [redis-event-store](https://github.com/mylxsw/redis-event-store) | Go | ![](https://img.shields.io/github/stars/mylxsw/redis-event-store?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/mylxsw/redis-event-store?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 为 glacier 框架提供的基于 Redis 作为后端的事件库 |
 | [distribute-locks](https://github.com/mylxsw/distribute-locks) | Go | ![](https://img.shields.io/github/stars/mylxsw/distribute-locks?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/mylxsw/distribute-locks?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 为 glacier 框架任务调度器提供的分布式锁实现 |
 | [giris](https://github.com/mylxsw/giris) | Go | ![](https://img.shields.io/github/stars/mylxsw/giris?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/mylxsw/giris?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | Iris 框架适配 Glacier 框架 |
-
+| [eloquent](https://github.com/mylxsw/eloquent) | Go | ![](https://img.shields.io/github/stars/mylxsw/eloquent?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/mylxsw/eloquent?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | Go 版本的 Eloquent ORM 框架（起源于 PHP 最流行的 Laravel 框架）|
 
 ## Projects
 
