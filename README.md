@@ -46,7 +46,12 @@ Open-source alert notification system with integrations for DingTalk, email, SMS
 - [glacier](https://github.com/mylxsw/glacier) — Dependency-injection-based application framework for Go, offering modular architecture and streamlined development.  
 - [eloquent](https://github.com/mylxsw/eloquent) — Go implementation of Laravel’s Eloquent ORM, bringing expressive database syntax to Go developers.  
 - [asteria](https://github.com/mylxsw/asteria) — Structured logging framework for Go.  
-- [go-ioc](https://github.com/mylxsw/go-ioc) — Runtime dependency injection library for Go.  
+- [go-ioc](https://github.com/mylxsw/go-ioc) — Runtime dependency injection library for Go.
+
+## 🧩 MCP
+
+- [MiniMax Voice Gen](https://github.com/mylxsw/voice-gen-mcp) - A Model Context Protocol (MCP) server that provides voice generation capabilities using the Minimax AI API.
+- [Memos MCP Server](https://github.com/mylxsw/memos-mcp-server) - A FastMCP-based MCP (Model Context Protocol) server implementation for Memos, allowing AI assistants to interact with the Memos note-taking system through the MCP protocol.
 
 
 ## 📫 Let’s Connect
