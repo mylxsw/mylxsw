@@ -52,6 +52,7 @@ Open-source alert notification system with integrations for DingTalk, email, SMS
 
 - [MiniMax Voice Gen](https://github.com/mylxsw/voice-gen-mcp) - A Model Context Protocol (MCP) server that provides voice generation capabilities using the Minimax AI API.
 - [Memos MCP Server](https://github.com/mylxsw/memos-mcp-server) - A FastMCP-based MCP (Model Context Protocol) server implementation for Memos, allowing AI assistants to interact with the Memos note-taking system through the MCP protocol.
+- [Github MCP Server](https://github.com/mylxsw/github-mcp) - A Model Context Protocol (MCP) server for GitHub repository operations. This server provides tools to interact with GitHub repositories through the GitHub API.
 
 
 ## 📫 Let’s Connect
