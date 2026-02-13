@@ -10,6 +10,9 @@ I love creating software that bridges cutting-edge AI with practical, developer-
 A powerful AI client app supporting GPT and Chinese LLMs (e.g., Tongyi Qianwen, Wenxin Yiyan).  
 Features Stable Diffusion text-to-image, image-to-image, SDXL1.0, super-resolution, and image coloring — all in one app.  
 
+### [Squirrel](https://github.com/mylxsw/llm-gateway) · Python &nbsp;&nbsp; ![](https://img.shields.io/github/stars/mylxsw/llm-gateway?color=f2f08d&logo=Undertale&logoColor=eb4630)
+
+Squirrel is a high-performance, production-ready proxy service that unifies access to multiple Large Language Model (LLM) providers.
 
 ### [growing-up](https://github.com/mylxsw/growing-up) · Markdown &nbsp;&nbsp; ![](https://img.shields.io/github/stars/mylxsw/growing-up?color=f2f08d&logo=Undertale&logoColor=eb4630)
 
