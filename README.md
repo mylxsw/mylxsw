@@ -12,7 +12,7 @@ Features Stable Diffusion text-to-image, image-to-image, SDXL1.0, super-resoluti
 
 ### [Squirrel](https://github.com/mylxsw/llm-gateway) · Python &nbsp;&nbsp; ![](https://img.shields.io/github/stars/mylxsw/llm-gateway?color=f2f08d&logo=Undertale&logoColor=eb4630)
 
-Squirrel is a high-performance, production-ready proxy service that unifies access to multiple Large Language Model (LLM) providers.
+[Squirrel](https://squirrel.gulu.ai) is a high-performance, production-ready proxy service that unifies access to multiple Large Language Model (LLM) providers.
 
 ## Projects before the AI era
 
