@@ -14,6 +14,10 @@ Features Stable Diffusion text-to-image, image-to-image, SDXL1.0, super-resoluti
 
 [Squirrel](https://squirrel.gulu.ai) is a high-performance, production-ready proxy service that unifies access to multiple Large Language Model (LLM) providers.
 
+### [NowCoiner](https://github.com/mylxsw/now-coiner) · Swift &nbsp;&nbsp; ![](https://img.shields.io/github/stars/mylxsw/now-coiner?color=f2f08d&logo=Undertale&logoColor=eb4630)
+
+NowCoiner is a lightweight crypto price ticker for macOS. Keep an eye on live prices and 24h changes of major cryptocurrencies, right from your desktop, without opening an exchange or a browser.
+
 ## Projects before the AI era
 
 ### [growing-up](https://github.com/mylxsw/growing-up) · Markdown &nbsp;&nbsp; ![](https://img.shields.io/github/stars/mylxsw/growing-up?color=f2f08d&logo=Undertale&logoColor=eb4630)
