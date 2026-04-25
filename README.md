@@ -10,6 +10,10 @@ I love creating software that bridges cutting-edge AI with practical, developer-
 A powerful AI client app supporting GPT and Chinese LLMs (e.g., Tongyi Qianwen, Wenxin Yiyan).  
 Features Stable Diffusion text-to-image, image-to-image, SDXL1.0, super-resolution, and image coloring — all in one app.  
 
+### [Typeflux](https://github.com/mylxsw/typeflux) · Swift &nbsp;&nbsp; ![](https://img.shields.io/github/stars/mylxsw/typeflux?color=f2f08d&logo=Undertale&logoColor=eb4630)
+
+Typeflux is a macOS menu bar voice input tool built with Swift. It is designed for a fast "hold to talk, release to insert" workflow: press a hotkey, speak naturally, let the app transcribe your speech, and send the resulting text back into the currently focused app.
+
 ### [Squirrel](https://github.com/mylxsw/llm-gateway) · Python &nbsp;&nbsp; ![](https://img.shields.io/github/stars/mylxsw/llm-gateway?color=f2f08d&logo=Undertale&logoColor=eb4630)
 
 [Squirrel](https://squirrel.gulu.ai) is a high-performance, production-ready proxy service that unifies access to multiple Large Language Model (LLM) providers.
